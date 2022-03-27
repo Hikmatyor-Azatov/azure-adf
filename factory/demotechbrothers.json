@@ -1,0 +1,9 @@
+{
+	"name": "demotechbrothers",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dd98087a-5d23-42d2-8d4c-548235a812eb",
+		"tenantId": "4e0cf488-83ed-423c-b5c9-784109f4681c"
+	}
+}
